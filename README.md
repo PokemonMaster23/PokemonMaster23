@@ -1,4 +1,4 @@
 - 😜 Hey! Im a noob who makes bot code with some ai assistance!
-- 👍 Check my repos in the repostries section and dont forget to star the repo!
-- 😁 Im a active person in telegram! Join [@PK_Botz](telegram.me/pk_botz) My Botz channel for awesome bots!
+- 👍 Check my repos in the Repositories section and dont forget to star the repo!
+- 😁 Im a active person in telegram! Join [@PK_Botz](https://telegram.me/pk_botz) My Botz channel for awesome bots!
 - 🎉 That's it for now!!
